@@ -17,7 +17,7 @@ public class JavaApplication1 {
     public static void main(String[] args) {
       
         System.out.println("hola mundo!");
-         System.out.println("HOLA 2!");
+         System.out.println("HOLA JULIO!");
     }
     
 }
